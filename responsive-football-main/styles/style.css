@@ -62,3 +62,7 @@ body{
   .match-photo{
     width: 100%;
   }
+
+  .fotter-container{
+      text-align: center;
+  }
